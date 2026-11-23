@@ -69,7 +69,7 @@
     "test:cli": "node --test tests/cli.test.js"
   },
   "dependencies": {
-    "@scure/bip39": "^1.5.4",
+    "@scure/bip39": "^2.4.0",
     "@silentbot1/nat-api": "^0.4.9",
     "create-torrent": "6.1.3",
     "ip-address": "10.7.4",
